@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AKTDroidAppActivity!</string>
+    <string name="app_name">AKTDroidApp</string>
+    <string name="tab_list">Order List</string>
+    <string name="tab_detail">New Order</string>
+
+</resources>
